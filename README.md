@@ -1,6 +1,10 @@
 # Langchain Chat using GROQ
 This project allows users to interact with a chatbot powered by Langchain and GROQ using a custom-built Streamlit web app. The chatbot uses the llama-3.3-70b-versatile model to respond to user inputs. The project leverages the Langchain API and GROQ API to generate responses dynamically.
 
+```
+Note : max_token is set to 100. If you want you can increase this to get the desired result.
+```
+
 ![{F063A971-5258-4BB9-9303-C01835813117}](https://github.com/user-attachments/assets/9638c174-bc8f-44f8-933e-b79c12dd7483)
 
 
